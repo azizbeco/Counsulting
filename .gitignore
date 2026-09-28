@@ -1,0 +1,18 @@
+.idea
+.DS_Store
+enterprise
+odoo
+venv
+__pycache__
+conf
+tg_bot/
+info-bot/
+.python-version
+.vscode
+odoo-old
+enterprise-old
+
+# Editor / local env
+.python-version
+.vscode/
+.claude
